@@ -1,0 +1,50 @@
+.body{
+    background-color: #97DEFF
+}
+.container{
+    margin-bottom: 1%;
+}
+.numgen_containermain{
+ background: #454545;
+ width: 85%;
+ margin-bottom: 1%;
+ 
+}
+.titleholder, .container{
+ color: white;
+ background-color: #454545;
+ margin-bottom: 1%;
+ 
+}
+.startnumber, .endnumber, .submitbutton{
+    margin-bottom: 3%;
+    
+}
+.lbl{
+   color: white;
+}
+.resultholder{
+    background-color: #454545;
+    margin-bottom: 1%;
+}
+.mutedtext{
+    color: white;
+}
+#result{
+    color: white;
+}
+.navbar{
+    margin-bottom: 1%;
+}
+.social_container{
+    background: #454545;
+    width: 85%;
+    
+}
+.logoholder{
+ padding-bottom: 1%;
+}
+.logo{
+    margin-left: 1%;
+    margin-right: 1%;
+}
